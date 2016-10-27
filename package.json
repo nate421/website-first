@@ -1,0 +1,19 @@
+{
+  "name": "website-first",
+  "version": "1.0.0",
+  "description": "this is my first website yay!!!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nate421/website-first.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nate421/website-first/issues"
+  },
+  "homepage": "https://github.com/nate421/website-first#readme"
+}
