@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/nate421/website-first/issues"
   },
-  "homepage": "https://github.com/nate421/website-first#readme"
+  "homepage": "https://github.com/nate421/website-first#readme",
+  "devDependencies": {
+    "gh-pages-deploy": "^0.4.2"
+  }
 }
