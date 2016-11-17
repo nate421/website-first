@@ -4,6 +4,7 @@
   "description": "this is my first website yay!!!",
   "main": "index.js",
   "scripts": {
+    "deploy": "gh-pages-deploy",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
