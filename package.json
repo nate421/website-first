@@ -4,6 +4,7 @@
   "description": "this is my first website yay!!!",
   "main": "index.js",
   "scripts": {
+    "clean-source": "rimraf README.md src webroot package.json",
     "deploy": "gh-pages-deploy",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
